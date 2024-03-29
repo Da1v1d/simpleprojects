@@ -5,3 +5,4 @@
 [submodule "newsapp-solidjs"]
 	path = newsapp-solidjs
 	url = https://github.com/Da1v1d/newsapp-solidjs.git
+	branch = main
