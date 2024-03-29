@@ -1,3 +1,7 @@
 [submodule "newsapp"]
 	path = newsapp
 	url = https://github.com/Da1v1d/newsapp.git
+
+[submodule "newsapp-solidjs"]
+	path = newsapp-solidjs
+	url = https://github.com/Da1v1d/newsapp-solidjs.git
